@@ -322,6 +322,6 @@ def getRandom_FromLength(strings, length):
 
 if __name__ == '__main__':
     curses.wrapper(main) 
-    main()
+    #main()
     
 
